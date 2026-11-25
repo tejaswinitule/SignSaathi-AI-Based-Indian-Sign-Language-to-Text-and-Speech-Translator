@@ -1,0 +1,62 @@
+{
+  "test_samples": 36,
+  "test_loss": 1.7212241888046265,
+  "test_accuracy": 0.3055555522441864,
+  "classes": {
+    "Alright": {
+      "precision": 0.25,
+      "recall": 0.25,
+      "f1_score": 0.25,
+      "test_support": 4
+    },
+    "Good Morning": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "test_support": 4
+    },
+    "Good afternoon": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "test_support": 4
+    },
+    "Good evening": {
+      "precision": 0.21428571428571427,
+      "recall": 0.75,
+      "f1_score": 0.3333333333333333,
+      "test_support": 4
+    },
+    "Good night": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "test_support": 4
+    },
+    "Hello": {
+      "precision": 0.25,
+      "recall": 0.25,
+      "f1_score": 0.25,
+      "test_support": 4
+    },
+    "How are you": {
+      "precision": 0.6,
+      "recall": 0.75,
+      "f1_score": 0.6666666666666665,
+      "test_support": 4
+    },
+    "Pleased": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1_score": 0.6666666666666666,
+      "test_support": 4
+    },
+    "Thank you": {
+      "precision": 0.5,
+      "recall": 0.25,
+      "f1_score": 0.3333333333333333,
+      "test_support": 4
+    }
+  },
+  "warning": "Small 9-class subset evaluation. Results are preliminary and do not represent recognition of all Indian Sign Language."
+}

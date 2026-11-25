@@ -1,0 +1,34 @@
+node_modules/
+dist/
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
+deep_learning/dataset/*
+!deep_learning/dataset/.gitkeep
+deep_learning/models/*
+!deep_learning/models/.gitkeep
+*.h5
+*.keras
+*.weights.h5
+*.csv
+*.png
+.DS_Store
+
+# Python environments
+.venv/
+venv/
+backend/.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# IDE
+.vscode/
+

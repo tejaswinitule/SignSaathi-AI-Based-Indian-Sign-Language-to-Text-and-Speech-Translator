@@ -1,0 +1,43 @@
+{
+    "total_videos_found": 642,
+    "valid_videos": 617,
+    "processed_videos": 585,
+    "selected_classes": 28,
+    "frames_per_video": 30,
+    "features_per_frame": 126,
+    "input_shape": [
+        585,
+        30,
+        126
+    ],
+    "class_distribution": {
+        "drink": 16,
+        "eat": 18,
+        "father": 16,
+        "food": 17,
+        "friend": 38,
+        "go": 17,
+        "he": 17,
+        "hello": 36,
+        "help": 16,
+        "hospital": 21,
+        "market": 36,
+        "mother": 18,
+        "no": 17,
+        "please": 18,
+        "school": 37,
+        "she": 17,
+        "sister": 17,
+        "sit": 19,
+        "student": 17,
+        "tea": 17,
+        "teacher": 17,
+        "thank_you": 39,
+        "today": 17,
+        "water": 18,
+        "what": 17,
+        "where": 17,
+        "yes": 17,
+        "you": 18
+    }
+}
